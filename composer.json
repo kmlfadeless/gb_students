@@ -1,0 +1,18 @@
+{
+    "name": "kml/geekbrains",
+    "autoload": {
+        "psr-4": {
+            "GeekBrains\\": "src/GeekBrains",
+            "Geekbrains1\\": "src/Geekbrains1"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kostiantyn Lozhkin",
+            "email": "k@kml.email"
+        }
+    ],
+    "require": {
+        "fakerphp/faker": "^1.19"
+    }
+}
